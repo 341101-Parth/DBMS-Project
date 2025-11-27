@@ -1,8 +1,13 @@
 Group 7,Section-B PGDM(Core),2025-27
+
 Group Members:
+
 Garima Gupta (341076)
+
 Pritha Soni (341095)
+
 Parth Arora (341101)
+
 We have choosen Swiggy for our project
 Since the real HR data is confidential and cannot be used, hence we have come up with a fictional and hypthetical dataset. 
 Advantages of using this data set
